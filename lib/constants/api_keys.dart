@@ -1,0 +1,2 @@
+const API_URL = "https://yfjftmugwnpmmqlzpwob.supabase.co";
+const API_ANON= "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlmamZ0bXVnd25wbW1xbHpwd29iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDI3MzMyNjAsImV4cCI6MjAxODMwOTI2MH0.XpdViRUt1lDpEqFWO7JNmSrK7K2cOKSs4pBdPQUFmwo";
